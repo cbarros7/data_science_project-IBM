@@ -21,11 +21,8 @@ This project is the culmination of 9 courses developed over 10 months in the IBM
 The tools used to develop the project were:
 
 
-<div style="text-align:center"><img src="![image3-1](https://user-images.githubusercontent.com/60367519/80152760-e0fa5900-8581-11ea-8669-fe156703925e.png)" /></div>
+![image3-1](https://user-images.githubusercontent.com/60367519/80152760-e0fa5900-8581-11ea-8669-fe156703925e.png)
 
-
-<div style="text-align:center"><img src="![7-193-des-1170x395](https://user-images.githubusercontent.com/60367519/80152856-0edf9d80-8582-11ea-880e-0ad520c524a8.png)" /></div>
-
-
+![7-193-des-1170x395](https://user-images.githubusercontent.com/60367519/80152856-0edf9d80-8582-11ea-880e-0ad520c524a8.png)
 
 
