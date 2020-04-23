@@ -8,9 +8,10 @@ This project is the culmination of 9 courses developed over 10 months in the IBM
 ## Tools :hammer:
 The tools used to develop the project were:
 
-<p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/60367519/80152760-e0fa5900-8581-11ea-8669-fe156703925e.png">
-</p>
+
+![jupyter_python_numpy width-808](https://user-images.githubusercontent.com/60367519/80153609-7e09c180-8583-11ea-80da-ccaffb4b8889.png)
+
+![7-193-des-1170x395](https://user-images.githubusercontent.com/60367519/80152856-0edf9d80-8582-11ea-880e-0ad520c524a8.png)
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/60367519/80152760-e0fa5900-8581-11ea-8669-fe156703925e.png">
