@@ -3,7 +3,22 @@
 ## Description :speech_balloon:
 This project is the culmination of 9 courses developed over 10 months in the IBM Data Science professional certification through [**Coursera**](https://www.coursera.org/professional-certificates/ibm-data-science). 
 
-**What is the objective with this project?** Basically it consists of finding the best location to open a new Peruvian food restaurant in the city of Barranquilla with Big Data and Machine learning techniques. To carry out the above, it has been decided to take the following structure in the project: 
+**What is the objective with this project?** Basically it consists of finding the best location to open a new Peruvian food restaurant in the city of Barranquilla with Big Data and Machine learning techniques. 
+
+## Tools :hammer:
+The tools used to develop the project were:
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/60367519/80152760-e0fa5900-8581-11ea-8669-fe156703925e.png">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/60367519/80152760-e0fa5900-8581-11ea-8669-fe156703925e.png">
+</p>
+
+
+
+To carry out the above, it has been decided to take the following structure in the project: 
 
 ### 1. Introduction
 #### 1.1 Problem
