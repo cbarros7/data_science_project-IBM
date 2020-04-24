@@ -18,13 +18,41 @@ To carry out the above, it has been decided to take the following structure in t
 
 ## Project structure :notebook_with_decorative_cover:
 
-### 1.Data acquisition and cleaning
-#### 1.1 Data sources
+### Data acquisition and cleaning
+#### Data sources
+To make a good choice to open Peruvian restaurants in Barranquilla, the following information is required:
+* List / Information on the Barranquilla sectors with their Geodata (latitude and longitude).
+* List / Information on the main roads in Barranquilla with geographic data.
 
-#### 1.2 Data cleaning
+![table 1](https://user-images.githubusercontent.com/60367519/80259215-a90b1880-864a-11ea-9103-b58526ee9571.png)
 
-### 2. Exploratory Data Analysis
+#### Data cleaning
+The data that we will use for this analysis is a combination of a **.csv** file that has been prepared for the purposes of the analysis of multiple sources (Barrios_coord.csv) and the location / location information on **Foursquare**.
 
+![table 2](https://user-images.githubusercontent.com/60367519/80259326-f091a480-864a-11ea-8fc2-b93c70491c66.png)
+
+
+### Exploratory Data Analysis
+16 strategic neighborhoods were commercially taken in the city of Barranquilla and the latitudes and longitudes of their locations were manually searched with the help of **Google Maps** and with the data provided by the DANE (National Administrative Department of Statistics, by its acronyms in Spanish).
+
+![mapa 1](https://user-images.githubusercontent.com/60367519/80259220-aad4dc00-864a-11ea-8896-ed8161a46863.png)
+
+## Annotations :loudspeaker:
+I have written an [**article**](https://www.linkedin.com/pulse/opening-new-peruvian-restaurant-barranquilla-big-data-carlos-barros-1e/) highlighting the main findings of the research. Finally, some considerations are made for similar work. 
+
+## Authors :black_nib:
+**Carlos Barros** [Github](https://github.com/cbarros7)
+                  [LinkdIn](https://www.linkedin.com/in/carlosbarros7/)
+
+## Acknowledgements :pray:
+Thanks to all the **IBM teachers**, the **Coursera** platform and all the peers who accompanied me throughout this process. It was undoubtedly a great experience in the personal and professional field. 
+
+
+For more information about course on Coursera, visit this [link](https://www.coursera.org/professional-certificates/ibm-data-science).
+
+<p align="center">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F149362230.v2.pressablecdn.com%2Fwp-content%2Fuploads%2F2018%2F08%2Fcoursera-social-logo.png&f=1&nofb=1" alt="Holberton School logo">
+</p>
 
 
 
