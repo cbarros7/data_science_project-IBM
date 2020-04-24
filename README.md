@@ -51,7 +51,7 @@ Thanks to all the **IBM teachers**, the **Coursera** platform and all the peers 
 For more information about course on Coursera, visit this [link](https://www.coursera.org/professional-certificates/ibm-data-science).
 
 <p align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F149362230.v2.pressablecdn.com%2Fwp-content%2Fuploads%2F2018%2F08%2Fcoursera-social-logo.png&f=1&nofb=1" alt="Holberton School logo">
+<img src="https://digital.hbs.edu/platform-rctom/wp-content/uploads/sites/4/2016/11/coursera-logo-nobg.png" alt="Coursera logo">
 </p>
 
 
