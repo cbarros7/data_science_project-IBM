@@ -38,7 +38,7 @@ The data that we will use for this analysis is a combination of a **.csv** file 
 ![mapa 1](https://user-images.githubusercontent.com/60367519/80259220-aad4dc00-864a-11ea-8896-ed8161a46863.png)
 
 ## Annotations :loudspeaker:
-I have written an [**article**](https://www.linkedin.com/pulse/opening-new-peruvian-restaurant-barranquilla-big-data-carlos-barros-1e/) highlighting the main findings of the research. Finally, some considerations are made for similar work. 
+I have written an [**article**](https://www.linkedin.com/pulse/mejor-ubicaci%C3%B3n-para-abrir-un-nuevo-restaurante-en-y-barros-amador/) highlighting the main findings of the research. Finally, some considerations are made for similar work. 
 
 ## Authors :black_nib:
 **Carlos Barros** [Github](https://github.com/cbarros7)
